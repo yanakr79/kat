@@ -1,0 +1,12 @@
+- title: nav.home
+  to: /
+- title: nav.about
+  to: /about
+- title: nav.nature
+  to: /nature-and-culture
+- title: nav.services
+  to: /services
+- title: nav.gallery
+  to: /gallery
+- title: nav.contacts
+  to: /contacts

@@ -1,0 +1,102 @@
+- key: author
+  value: Автор
+- key: all_rights_reserved
+  value: Всі права захищені.
+- key: cookie_warning.text
+  value: Этот сайт использует куки для оптимизации, анализа трафика и сохранения ваших настроек.
+- key: cookie_warning.details
+  value: Подробнее
+- key: form.send
+  value: Надіслати
+- key: form.pls_wait
+  value: Будь ласка зачекайте...
+- key: form.cancel
+  value: Скасувати
+- key: form.error
+  value: Помилка
+- key: form.sending
+  value: Відправлення
+- key: form.success
+  value: Завершено
+- key: validation.required
+  value: "{{name}} обов'язково."
+- key: validation.length
+  value: Поле "{{name}}" має бути не менше {{min}} і не більше {{max}} символів.
+- key: validation.only_symbols
+  value: Допускаються тільки символи і пробіл
+- key: validation.invalid
+  value: Помилка в "{{name}}".
+- key: error.err400
+  value: '400: помилкові дані'
+- key: error.err401
+  value: 401 не авторизовано
+- key: error.err403
+  value: '403: заборонено'
+- key: error.err405
+  value: '405: неприпустимих метод'
+- key: error.network
+  value: Помилка мережі
+- key: cf.name
+  value: Ім'я
+- key: cf.message
+  value: Повідомлення
+- key: cf.your_name
+  value: Ваше ім'я
+- key: cf.your_email
+  value: Ваш e-mail
+- key: cf.your_message
+  value: Ваше повідомлення
+- key: cf.sorry
+  value: Вибачте. Сталася помилка під час відправки повідомлення.
+- key: cf.try_later
+  value: Будь ласка, повторіть вашу спробу пізніше.
+- key: cf.thanks
+  value: Дякуємо за ваше повідомлення!
+- key: cf.we_will_response
+  value: Ми відповімо вам найближчим часом.
+- key: nav.home
+  value: Додому
+- key: nav.about
+  value: Про нас
+- key: nav.nature
+  value: Природа і культура
+- key: nav.services
+  value: Послуги
+- key: nav.gallery
+  value: Галерея
+- key: nav.contacts
+  value: Контакти
+- key: nav.support_us
+  value: Підтримайте нас
+- key: footer.greeting.title
+  value: Ласкаво просимо!
+- key: footer.greeting.text
+  value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+- key: footer.our_address
+  value: Юридична адреса
+- key: footer.call_us
+  value: Звертайтеся до нас
+- key: contacts.title
+  value: Контакти
+- key: contacts.wait_you_on_address
+  value: Юридична адреса
+- key: contacts.opening_time
+  value: Робочий час
+- key: contacts.call_us
+  value: Звертайтеся до нас
+- key: contacts.write_us
+  value: Напишіть нам
+- key: dow.d2.mo
+  value: Пн
+- key: dow.d2.tu
+  value: Вт
+- key: dow.d2.we
+  value: Ср
+- key: dow.d2.th
+  value: Чт
+- key: dow.d2.fr
+  value: Пт
+- key: dow.d2.sa
+  value: Сб
+- key: dow.d2.su
+  value: Нд

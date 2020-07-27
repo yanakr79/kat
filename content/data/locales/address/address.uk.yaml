@@ -1,0 +1,8 @@
+legalName: Назва компании
+postalAddress:
+  streetAddress:
+    - вул. Зоопаркова, буд.3
+    - оф.3
+  addressLocality: Одеса
+  postalCode: 65059
+  addressCountry: Україна
