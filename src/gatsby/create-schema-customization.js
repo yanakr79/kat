@@ -22,10 +22,10 @@ const generalMdFields = {
   },
 
   metaTitle: {
-    type: "String",
+    type: 'String',
   },
   metaDescription: {
-    type: "String",
+    type: 'String',
   },
 
   cover: {
@@ -234,8 +234,9 @@ module.exports = ({ actions, schema }) => {
         },
         html: {
           type: 'String!',
-          resolve: (source, args, context, info) => resolverPassthrough('MarkdownRemark', 'html')(source, args, context, info),
-        }
+          resolve: (source, args, context, info) =>
+            resolverPassthrough('MarkdownRemark', 'html')(source, args, context, info),
+        },
       },
     }),
 

@@ -7,12 +7,12 @@
     "shortName": "Ukr",
     "localName": "Украї́нський",
     "shortLocalName": "Укр",
+    
     "dateFormat": "dd.MM.yyyy",
 
     "siteTitle": "Природно-етнографічний парк \"Тарутинський степ\"",
     "siteDescription": "Парк \"Тарутинський степ\" – одна з останніх недоторканих степових перлин Європи, по якій як вдавнину крокують дикі кулани, лані, сайгаки та інші тварини.",
     "siteHeadline": "Headline dcdsc dsc sdc sdc sdc s dc sdc ds c c sdc d sc dc c s cs d",
-
     "siteShortName": "Парк \"Тарутинський степ\""
   },
 
@@ -23,6 +23,7 @@
     "shortName": "Eng",
     "localName": "English",
     "shortLocalName": "Eng",
+
     "dateFormat": "dd/MM/yyyy",
 
     "siteTitle": "Natural and Ethnographic Park \"Tarutino Steppe\"",
@@ -38,6 +39,7 @@
     "shortName": "Rus",
     "localName": "Русский",
     "shortLocalName": "Рус",
+
     "dateFormat": "dd.MM.yyyy",
 
     "siteTitle": "Природно-этнографический парк \"Тарутинская степь\"",
