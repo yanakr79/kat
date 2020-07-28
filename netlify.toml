@@ -1,8 +1,8 @@
 [build]
-  command = "gatsby build"
+  command = "yarn build"
   publish = "public"
 [dev]
-  command = "gatsby develop"
+  command = "yarn develop"
 
 [[headers]]
   for = "/*"

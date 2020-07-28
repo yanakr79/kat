@@ -29,31 +29,23 @@ MIT
 1. Have installed **Git** on your local computer. You could download it from [here](https://git-scm.com/download).
 
 ### Steps
-
-1. Login to [GitHub](https://github.com).
-1. Create empty public repository `your-repository-name` without `README`.
-1. Lanch command prompt on your computer: Start -> Windows System -> Command Prompt.
+#### Fork Source Repository and clone it on local computer
+1. Login to your [GitHub account](https://github.com).
+1. In a browser open the source repository `https://github.com/alextim/kat`.
+1. Create fork from source repository - click `Fork` button.
+1. After process finish click button `Code`.
+1. Copy your repository URL. 
+   It should to be like this: `https://github.com/your-account-name/kat.git`.
+1. Lanch command prompt on your computer.
+   For Windows it will be: `Start` -> `Windows System` -> `Command Prompt`.
 1. Select desired folder with `cd` (change directory) command.
 1. Clone source repository to selected folder with the next command:
 
 ```
-git clone https://github.com/alextim/kat.git
+git clone https://github.com/your-account-name/kat.git
 ```
 
-1. Go to just created folder `kat`.
-
-```
-cd kat
-```
-
-1.  Connect local repository to remote repository:
-
-```md
-git remote remove origin
-git remote add origin https://github.com/**your-github-account-name**/**your-repository-name**.git
-git push -u origin master
-```
-
+#### Connect your repository to hosting and build site
 1. Login to [Netlify](https://netlify.com).
 1. Click **New site from Git** button
 1. Click **GitHub** button on the next screen.
@@ -69,8 +61,10 @@ git push -u origin master
 ## Edit
 
 1. Edit your site locally with your favorite editor.
-2. Commit your work and push changes to remote repository.
-   Run commands:
+1. Lanch command prompt on your computer.
+2. Goto repository folder with `cd` command.
+3. Commit your work and push changes to remote repository.
+   Run the following commands in sequence:
 
 ```
 git add .
