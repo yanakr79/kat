@@ -1,5 +1,5 @@
 ---
-title: Природно-етнографічний парк "Тарутинський степ"
+title: 111-етнографічний парк "Тарутинський степ"
 description: Ласкаво просимо!
 metaTitle: This is About Us
 metaDescription: This is About Us
